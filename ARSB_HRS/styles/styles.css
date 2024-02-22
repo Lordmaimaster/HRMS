@@ -1,0 +1,14 @@
+﻿table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 100%;
+}
+th,
+td {
+    font-size: 14px;
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+}
